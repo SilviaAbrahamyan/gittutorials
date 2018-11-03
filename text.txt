@@ -1,3 +1,8 @@
 1aeafaSFGv
 2wejfHKLDRF
 WRFw
+<<<<<<< HEAD
+3skjAFjjn
+=======
+4szklmfd
+>>>>>>> branchB
